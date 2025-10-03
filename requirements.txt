@@ -1,0 +1,7 @@
+agno
+anthropic
+mcp
+fastapi[standard]
+uvicorn[standard]
+sqlalchemy
+openai
